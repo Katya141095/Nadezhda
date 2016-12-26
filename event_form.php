@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="container">
-        <a href="/" class="logoLink"><h1 class="logo">Детский оздоровительно-образовательный центр "Надежда"</h1></a>
+        <a href="/" class="logoLink"><h1 class="logo">Детский оздоравительно-образовательный центр "Надежда"</h1></a>
         <br />
         
         
